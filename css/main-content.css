@@ -1,0 +1,12 @@
+.main-content{
+  display: flex;
+  flex-wrap: wrap;
+  padding: 75px 0;
+  justify-content: center;
+}
+
+.main-content-title-h2{
+  margin: 0 auto;
+  width: 100%;
+
+}

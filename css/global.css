@@ -364,11 +364,12 @@ html {
   box-sizing: inherit;
 }
 
-body {
+body {                   /*!----modified----*/
   min-width: 320px;
   min-height: 100vh;
   font-family: "Circe", sans-serif; 
   font-size: 14px;
+  color: var(--color-dark,#333333);
 }
 
 img, svg {
@@ -469,4 +470,4 @@ iframe {
   border:none;
 }
 
-/*! modified for project (body-font),font-size, add font-style: Circe, class: button, 
+/*! modified for project (body-font),font-size, font-collor, add font-style: Circe, class: button, 
