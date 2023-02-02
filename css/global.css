@@ -470,4 +470,27 @@ iframe {
   border:none;
 }
 
-/*! modified for project (body-font),font-size, font-collor, add font-style: Circe, class: button, 
+.title-h2{
+  font-weight: 800;
+  font-size: 48px;
+  line-height: 140%;
+  text-align: center;
+  letter-spacing: 0.01em;  
+}
+
+.footer-title-h2, .footer-title-h3{
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 140%;
+}
+
+.footer-title-logo{
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 140%;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+}
+
+/*! modified for project (body-font),font-size, font-collor, add font-style: Circe, class: button,
+  title-h2, footer-title-h2, footer-title-logo

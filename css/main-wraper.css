@@ -8,6 +8,7 @@
 .main-wraper-fieldset{
   width: 638px;
   border: 10px solid var(--color-red,#EC1B2E);
+  padding-left: 90px;
 }
 
 .main-wraper-fieldset-legend{
@@ -22,7 +23,7 @@
   font-weight: 400;
   font-size: 18px;
   line-height: 140%;
-  margin: 86px 90px 20px;
+  margin: 86px 0 20px;
 }
 
 .main-wraper-fieldset-text-2{
@@ -30,7 +31,7 @@
   font-weight: 400;
   font-size: 18px;
   line-height: 140%;
-  margin: 10px 90px 76px;
+  margin: 10px 0 76px;
 }
 
 .main-wraper-logo{
