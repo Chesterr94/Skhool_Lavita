@@ -1,0 +1,50 @@
+
+.main-content-ivent{
+  padding: 75px 0;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.main-content-ivent-title-h2{
+  display: flex;
+  flex-wrap: wrap;
+  padding-bottom: 100px;
+  width: 100%;
+  justify-content: center;
+}
+
+.main-content-ivent-list{
+  display: flex;
+  gap: 24px;
+}
+
+.main-content-ivent-list-item{
+  width: 100%;
+  max-width: 416px;
+}
+
+.main-content-ivent-list-item-figure-title{
+  width: 100%;
+  max-width: 356px;
+  margin: 0 auto;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 140%;
+  text-align: left;
+  padding: 30px 0px 7px;
+}
+
+.main-content-ivent-list-item-text{
+  width: 100%;
+  max-width: 356px;
+  margin: 0 auto;
+  padding: 7px 0px 15px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 140%;
+}
+
+.main-content-ivent-list-button{
+  padding: 15px 30px;
+  margin-left: 30px;
+}

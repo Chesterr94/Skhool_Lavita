@@ -48,14 +48,3 @@
 .main-content-list-item:hover{
   color: var(--color-red,#EC1B2E);
 }
-
-.main-content-table{
-  padding: 50px 0 75px;
-  border: 1px solid transparent;
-  border-collapse: collapse;
-}
-
-.main-content-table-tr-titles{
-  background: rgba(51, 51, 51, 0.05);
-}
-
