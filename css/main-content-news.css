@@ -1,5 +1,5 @@
 .main-content-news{
-  padding: 75px 0;
+  padding: 75px 0 60px;
   display: flex;
   flex-wrap: wrap;
 }
@@ -23,7 +23,7 @@
   max-width: 306px;
   flex-wrap: wrap;
   align-content: space-between;
-  vertical-align: top;
+
 }
 
 .main-content-news-list-item-title-h3{
