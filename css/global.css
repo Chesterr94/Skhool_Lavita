@@ -492,5 +492,8 @@ iframe {
   text-transform: uppercase;
 }
 
-/*! modified for project (body-font),font-size, font-collor, add font-style: Circe, class: button,
+.active{
+  color: var(--color-red,#EC1B2E);
+}
+/*! modified for project (body-font),font-size, font-collor, add font-style: Circe, class: button, li-active,
   title-h2, footer-title-h2, footer-title-logo
